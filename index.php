@@ -39,7 +39,7 @@
 	  <p class="lead">Website ini akan menampilkan informasi editor pada artikel situs detik.com beserta artikel yang telah diedit.<br>Data yang diperoleh berasal dari struktur data hash yang diintegrasi dengan web.</p>
 	  <hr class="my-4">
 	  <p>Website ini dibuat untuk memenuhi tugas projek lab matakuliah Struktur Data dan Algoritma program studi Informatika Universitas Syiah Kuala</p>
-	  <a class="btn btn-secondary btn-lg" href="" role="button"><i class="fab fa-github"></i> Visit to Github</a>
+	  <a class="btn btn-secondary btn-lg" href="https://github.com/RismaKurniawaty19/Projek-LabSDA" role="button"><i class="fab fa-github"></i> Visit to Github</a>
 	</div>
 	<!-- End Jumbotron -->
 
